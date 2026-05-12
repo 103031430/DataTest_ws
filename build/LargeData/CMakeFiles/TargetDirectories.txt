@@ -1,0 +1,11 @@
+/root/DataTest_ws/build/LargeData/CMakeFiles/uninstall.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/LargeData_uninstall.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/large_pub.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/large_sub.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/test.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/edit_cache.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/rebuild_cache.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/list_install_components.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/install.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/install/local.dir
+/root/DataTest_ws/build/LargeData/CMakeFiles/install/strip.dir

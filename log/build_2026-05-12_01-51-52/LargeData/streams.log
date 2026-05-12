@@ -1,0 +1,69 @@
+[0.039s] Invoking command in '/root/DataTest_ws/build/LargeData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/DataTest_ws/src/LargeData -DCMAKE_INSTALL_PREFIX=/root/DataTest_ws/install/LargeData
+[0.532s] -- The C compiler identification is GNU 13.3.0
+[0.738s] -- The CXX compiler identification is GNU 13.3.0
+[0.765s] -- Detecting C compiler ABI info
+[0.879s] -- Detecting C compiler ABI info - done
+[0.885s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.886s] -- Detecting C compile features
+[0.886s] -- Detecting C compile features - done
+[0.896s] -- Detecting CXX compiler ABI info
+[0.987s] -- Detecting CXX compiler ABI info - done
+[0.993s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.993s] -- Detecting CXX compile features
+[0.994s] -- Detecting CXX compile features - done
+[1.010s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.147s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.304s] -- Found rclcpp: 28.1.13 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.367s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.380s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.405s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.425s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.507s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.511s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.597s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.611s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.628s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.723s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.739s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.794s] WARNING: Package name "LargeData" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[1.836s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.836s] -- Configured cppcheck include dirs: 
+[1.836s] -- Configured cppcheck exclude dirs and/or files: 
+[1.838s] -- Added test 'lint_cmake' to check CMake code style
+[1.840s] -- Added test 'uncrustify' to check C / C++ code style
+[1.840s] -- Configured uncrustify additional arguments: 
+[1.841s] -- Added test 'xmllint' to check XML markup files
+[1.845s] -- Configuring done (1.7s)
+[1.865s] -- Generating done (0.0s)
+[1.874s] -- Build files have been written to: /root/DataTest_ws/build/LargeData
+[1.885s] Invoked command in '/root/DataTest_ws/build/LargeData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/DataTest_ws/src/LargeData -DCMAKE_INSTALL_PREFIX=/root/DataTest_ws/install/LargeData
+[1.887s] Invoking command in '/root/DataTest_ws/build/LargeData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/DataTest_ws/build/LargeData -- -j12 -l12
+[1.941s] [ 50%] [32mBuilding CXX object CMakeFiles/large_sub.dir/src/large_sub.cpp.o[0m
+[1.941s] [ 50%] [32mBuilding CXX object CMakeFiles/large_pub.dir/src/large_pub.cpp.o[0m
+[6.280s] [ 75%] [32m[1mLinking CXX executable large_pub[0m
+[6.539s] [ 75%] Built target large_pub
+[9.154s] [100%] [32m[1mLinking CXX executable large_sub[0m
+[9.425s] [100%] Built target large_sub
+[9.456s] Invoked command in '/root/DataTest_ws/build/LargeData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/DataTest_ws/build/LargeData -- -j12 -l12
+[9.465s] Invoking command in '/root/DataTest_ws/build/LargeData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/DataTest_ws/build/LargeData
+[9.470s] -- Install configuration: ""
+[9.471s] -- Installing: /root/DataTest_ws/install/LargeData/lib/LargeData/large_pub
+[9.472s] -- Set non-toolchain portion of runtime path of "/root/DataTest_ws/install/LargeData/lib/LargeData/large_pub" to ""
+[9.472s] -- Installing: /root/DataTest_ws/install/LargeData/lib/LargeData/large_sub
+[9.475s] -- Set non-toolchain portion of runtime path of "/root/DataTest_ws/install/LargeData/lib/LargeData/large_sub" to ""
+[9.475s] -- Installing: /root/DataTest_ws/install/LargeData/share/ament_index/resource_index/package_run_dependencies/LargeData
+[9.476s] -- Installing: /root/DataTest_ws/install/LargeData/share/ament_index/resource_index/parent_prefix_path/LargeData
+[9.476s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/environment/ament_prefix_path.sh
+[9.476s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/environment/ament_prefix_path.dsv
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/environment/path.sh
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/environment/path.dsv
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/local_setup.bash
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/local_setup.sh
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/local_setup.zsh
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/local_setup.dsv
+[9.477s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/package.dsv
+[9.478s] -- Installing: /root/DataTest_ws/install/LargeData/share/ament_index/resource_index/packages/LargeData
+[9.478s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/cmake/LargeDataConfig.cmake
+[9.478s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/cmake/LargeDataConfig-version.cmake
+[9.478s] -- Installing: /root/DataTest_ws/install/LargeData/share/LargeData/package.xml
+[9.481s] Invoked command in '/root/DataTest_ws/build/LargeData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/DataTest_ws/build/LargeData

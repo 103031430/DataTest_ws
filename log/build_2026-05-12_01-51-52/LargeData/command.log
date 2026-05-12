@@ -1,0 +1,6 @@
+Invoking command in '/root/DataTest_ws/build/LargeData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/DataTest_ws/src/LargeData -DCMAKE_INSTALL_PREFIX=/root/DataTest_ws/install/LargeData
+Invoked command in '/root/DataTest_ws/build/LargeData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /root/DataTest_ws/src/LargeData -DCMAKE_INSTALL_PREFIX=/root/DataTest_ws/install/LargeData
+Invoking command in '/root/DataTest_ws/build/LargeData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/DataTest_ws/build/LargeData -- -j12 -l12
+Invoked command in '/root/DataTest_ws/build/LargeData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/DataTest_ws/build/LargeData -- -j12 -l12
+Invoking command in '/root/DataTest_ws/build/LargeData': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/DataTest_ws/build/LargeData
+Invoked command in '/root/DataTest_ws/build/LargeData' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/DataTest_ws/build/LargeData

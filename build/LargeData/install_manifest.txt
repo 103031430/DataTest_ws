@@ -1,0 +1,17 @@
+/root/DataTest_ws/install/LargeData/lib/LargeData/large_pub
+/root/DataTest_ws/install/LargeData/lib/LargeData/large_sub
+/root/DataTest_ws/install/LargeData/share/ament_index/resource_index/package_run_dependencies/LargeData
+/root/DataTest_ws/install/LargeData/share/ament_index/resource_index/parent_prefix_path/LargeData
+/root/DataTest_ws/install/LargeData/share/LargeData/environment/ament_prefix_path.sh
+/root/DataTest_ws/install/LargeData/share/LargeData/environment/ament_prefix_path.dsv
+/root/DataTest_ws/install/LargeData/share/LargeData/environment/path.sh
+/root/DataTest_ws/install/LargeData/share/LargeData/environment/path.dsv
+/root/DataTest_ws/install/LargeData/share/LargeData/local_setup.bash
+/root/DataTest_ws/install/LargeData/share/LargeData/local_setup.sh
+/root/DataTest_ws/install/LargeData/share/LargeData/local_setup.zsh
+/root/DataTest_ws/install/LargeData/share/LargeData/local_setup.dsv
+/root/DataTest_ws/install/LargeData/share/LargeData/package.dsv
+/root/DataTest_ws/install/LargeData/share/ament_index/resource_index/packages/LargeData
+/root/DataTest_ws/install/LargeData/share/LargeData/cmake/LargeDataConfig.cmake
+/root/DataTest_ws/install/LargeData/share/LargeData/cmake/LargeDataConfig-version.cmake
+/root/DataTest_ws/install/LargeData/share/LargeData/package.xml
